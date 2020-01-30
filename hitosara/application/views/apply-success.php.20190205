@@ -1,0 +1,10 @@
+<div class="page landing apply"> <!-- Page: APPLY SUCCESS start -->
+	<section class="sect1"> <!-- SECTION 1 START -->
+		<div class="section-divider border red wow bounceIn" data-wow-delay="0.3s">
+			<h1>送信が完了致しました</h1>
+		</div>
+		<p class="success">確かに受付致しました。当申し込みは審査前の仮申し込みになります。審査通過後、本申込み書をお送りさせて頂きます。よろしくお願い致します。</p>
+		<div class="blank-section-page"></div>
+	</section>	<!-- SECTION 1 END -->
+
+</div> <!-- Page: APPLY SUCCESS end -->
